@@ -1,5 +1,7 @@
 
 ![CuteMan0's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuteMan0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuteMan0)
+
 
 * 👨‍🎓在读大学生
 * 👨‍💻编程菜鸟
